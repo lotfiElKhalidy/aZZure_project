@@ -17,4 +17,9 @@ This project contains:
     BELKHIRI Taha - ZZ2 F5  
     GALPIN Thomas - ZZ2 F5  
     MOUHALHAL Abdelmonaim - ZZ2 F5  
-    EL KHALIDY Lotfi - ZZ2 F5  
+    EL KHALIDY Lotfi - ZZ2 F5
+    
+## Landing Page :
+
+![alt text](
+https://github.com/lotfiElKhalidy/aZZure_project/blob/master/Landing-page.png)
